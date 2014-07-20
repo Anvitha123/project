@@ -1,6 +1,6 @@
 # Print the mean of the numbers 
 # new line
-
+hello anvitha :)
 import sys
 
 sum=0
